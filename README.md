@@ -1,208 +1,420 @@
-<a href="https://github.com/ramachandran0505">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramachandran%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20MERN%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" alt="Ramachandran B Header" />
-</a>
+---
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ramachandran0505&label=Profile%20Views&color=70a5fd&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=ramachandran0505&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/ramachandran-exe/">
-    <img src="https://img.shields.io/badge/LinkedIn-ramachandran--exe-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ramachandranboominathan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ramachandranboominathan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+
+# 👨‍💻 RAMACHANDRAN B
+
+### `MERN Stack Developer` • `Full Stack Developer` • `Tech Enthusiast`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+Ideas+Into+Real+Projects+%F0%9F%92%A1;Learning+%E2%86%92+Building+%E2%86%92+Deploying+%E2%86%92+Repeating+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ramachandran0505&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ramachandran+B+%F0%9F%91%8B;Aspiring+MERN+Stack+Developer;Full+Stack+Web+Developer+in+Progress;React+%7C+Node+%7C+Express+%7C+MongoDB;Let's+Build+Something+Awesome+Together+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
+
+### ⚡ QUICK PROFILE
+
+|     💻 Role    | 🎓 Education |       🌍 Location      |        🚀 Focus        |
+| :------------: | :----------: | :--------------------: | :--------------------: |
+| MERN Developer |      MCA     | Coimbatore, India 🇮🇳 | Full Stack Development |
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<div align="center">
+
+### 🚀 I build. I learn. I experiment.
+
+</div>
 
 ```javascript
 const ramachandran = {
   name: "Ramachandran B",
+  role: "MERN Stack Developer",
   location: "Coimbatore, Tamil Nadu, India 🇮🇳",
-  degree: "MCA @ RVS College of Arts and Science",
 
-  stack: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Bootstrap"
-  ],
+  education: {
+    degree: "MCA",
+    institution: "RVS College of Arts and Science"
+  },
+
+  technologies: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Bootstrap"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
+
+    database: [
+      "MongoDB",
+      "MongoDB Atlas"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "VS Code"
+    ],
+
+    ai: [
+      "Gemini AI",
+      "ChatGPT"
+    ]
+  },
 
   currentlyLearning: [
-    "Advanced React Patterns",
-    "REST API Design",
-    "MongoDB Atlas & Cloud Deployment"
+    "Advanced React",
+    "REST API Architecture",
+    "Authentication",
+    "Cloud Deployment",
+    "DevOps"
   ],
 
-  funFact: "I play basketball 🏀 and solve puzzles 🧩 in my free time!",
+  interests: [
+    "Full Stack Development",
+    "Open Source",
+    "AI-Assisted Development"
+  ],
 
-  motto: () => "Code. Learn. Build. Repeat. 🚀"
+  hobbies: [
+    "Basketball 🏀",
+    "Puzzles 🧩"
+  ],
+
+  motto: "Code. Learn. Build. Repeat. 🚀"
 };
 ```
 
-<br clear="right"/>
+<div align="center">
+
+### 💡 My Development Philosophy
+
+> **Learn something new → Build something useful → Deploy it → Improve it**
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+### 🎨 FRONTEND
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+<br><br>
 
-### 🍃 Database
+### ⚙️ BACKEND
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🔧 Tools & Platforms
+<br><br>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square\&logo=google\&logoColor=white)
+### 🍃 DATABASE
 
----
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
-## 🔥 GitHub Streak
+<br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramachandran0505&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats" />
-</p>
+### 🔧 DEVELOPMENT TOOLS
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-## 📊 GitHub Activity
+<br><br>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramachandran0505&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+### 🤖 AI & DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<br>
+
+`Gemini AI`   `ChatGPT`   `Prompt Engineering`
+
+</div>
 
 ---
 
-## 💼 Work Experience
+# 📊 GitHub Statistics
 
-<details>
-  <summary>🏢 <strong>IDM Tech Park</strong> — Web Development Intern | May 2024 | Erode, Tamil Nadu</summary>
+<div align="center">
 
-  <br/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramachandran0505&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramachandran0505&layout=compact&theme=tokyonight&hide_border=true" />
 
-* 🔧 Gained hands-on experience in frontend web development using HTML, CSS, and JavaScript.
-* 🌐 Worked on real-world web projects while strengthening responsive design and UI development skills.
-* 🤝 Collaborated with the development team to build and maintain web pages under professional mentorship.
-* 📚 Developed strong teamwork, communication, and time-management skills in a professional environment.
-
-</details>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 GitHub Streak
 
-| Project                                                                         | Technology                                          | Highlights                                                                                    |
-| ------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 🌐 **[Portfolio Website](https://1p25mc042.rvscasmcafsd2k25.in)**               | HTML · CSS · JavaScript · Gemini AI                 | Dynamic personal portfolio showcasing projects, skills, and experience.                       |
-| 🛒 **[SKM Cart — E-Commerce App](https://ramachandran0505.github.io/skmcart/)** | HTML · CSS · JavaScript · Bootstrap                 | Responsive online accessories shopping website with product listings and UI components.       |
-| 🎫 **[Ticket Management System](https://tms042.rvscasmcafsd2k25.in/login)**     | React · Node.js · Express · MongoDB Atlas · Postman | Full-stack MERN ticketing platform with authentication, ticket creation, and status tracking. |
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=ramachandran0505&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
-## 🏆 Achievements
-
-| 🏅  | Achievement                          | Details                                                                                           |
-| --- | ------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| 🎓  | **MCA — Top Academic Performance**   | 83.75% in 1st Year at RVS College of Arts and Science, Coimbatore                                 |
-| 🎓  | **BCA Graduate**                     | 68% from Sengunthar Arts and Science College, Tiruchengode — 2025                                 |
-| 🛠️ | **Full-Stack MERN Project Deployed** | Built and deployed a Ticket Management System using React, Node.js, Express.js, and MongoDB Atlas |
-| 🌍  | **Live Web Projects**                | Developed and deployed multiple web projects                                                      |
-| 💼  | **Industry Internship**              | Completed Web Development Internship at IDM Tech Park, Erode                                      |
+</div>
 
 ---
 
-## 🎓 Education
+# 📈 GitHub Activity
 
-| Degree     | Institution                                       | Year           | Score             |
-| ---------- | ------------------------------------------------- | -------------- | ----------------- |
-| 🎓 **MCA** | RVS College of Arts and Science, Coimbatore       | 2025 – Present | 83.75% (1st Year) |
-| 🎓 **BCA** | Sengunthar Arts and Science College, Tiruchengode | 2022 – 2025    | 68%               |
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramachandran0505&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 💼 Work Experience
+
+<div align="center">
+
+## 🏢 IDM Tech Park
+
+### `Web Development Intern`
+
+📍 Erode, Tamil Nadu   |   📅 May 2024
+
+</div>
+
+<br>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+</div>
+
+### 💡 What I Worked On
+
+* 🔧 Developed frontend interfaces using **HTML, CSS & JavaScript**
+* 📱 Worked on responsive web pages and UI components
+* 🤝 Collaborated with developers in a professional development environment
+* 🌐 Gained practical experience working with real-world web projects
+* 📚 Improved teamwork, communication and problem-solving skills
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🌐 Portfolio Website
+
+**Personal Portfolio & Developer Showcase**
+
+[![Portfolio](https://img.shields.io/badge/🌐_VIEW_PROJECT-70A5FD?style=for-the-badge)](https://1p25mc042.rvscasmcafsd2k25.in/)
+
+`HTML` `CSS` `JavaScript` `Gemini AI`
+
+> A responsive personal portfolio designed to showcase my projects, technical skills and developer journey.
+
+---
+
+### 🛒 SKM Cart
+
+**E-Commerce Web Application**
+
+[![SKM Cart](https://img.shields.io/badge/🛒_VIEW_PROJECT-BF91F3?style=for-the-badge)](https://ramachandran0505.github.io/skmcart/)
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+> Responsive shopping platform featuring product listings and a clean Bootstrap-based interface.
+
+---
+
+### 🎫 Ticket Management System
+
+**Full-Stack MERN Application**
+
+[![TMS](https://img.shields.io/badge/🎫_LIVE_PROJECT-38BDAE?style=for-the-badge)](https://tms042.rvscasmcafsd2k25.in/login)
+
+`React` `Node.js` `Express.js` `MongoDB Atlas` `Postman`
+
+> Full-stack ticket management platform with authentication, ticket creation, management and status tracking.
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+|  🏆 | Achievement                  |           Result           |
+| :-: | ---------------------------- | :------------------------: |
+|  🎓 | **MCA Academic Performance** |      83.75% — 1st Year     |
+|  🎓 | **BCA Graduate**             |             68%            |
+| 🛠️ | **MERN Project Deployment**  |   Full-stack TMS deployed  |
+|  🌍 | **Live Web Projects**        | Multiple projects deployed |
+|  💼 | **Industry Internship**      |        IDM Tech Park       |
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+### 🎓 MCA
+
+**RVS College of Arts and Science, Coimbatore**
+
+`2025 – Present`
+
+**83.75% — 1st Year**
+
+⬇️
+
+### 🎓 BCA
+
+**Sengunthar Arts and Science College, Tiruchengode**
+
+`2022 – 2025`
+
+**68%**
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+### ⚛️ React
+
+`Hooks` • `Context API` • `Advanced Patterns`
+
+### 🟢 Node.js
+
+`REST APIs` • `Middleware` • `Authentication`
+
+### 🚂 Express.js
+
+`Routing` • `Error Handling` • `MVC Architecture`
+
+### 🍃 MongoDB
+
+`Atlas` • `Aggregations` • `Indexing`
+
+### ☁️ Deployment
+
+`GitHub` • `Vercel` • `Netlify` • `Render`
+
+### 🤖 AI Development
+
+`Gemini AI` • `ChatGPT` • `Prompt Engineering`
+
+</div>
+
+---
+
+# 🎯 2026 Developer Goals
 
 ```text
-🧱 MERN Stack Deep Dive
-   ├── ⚛️ React       → Hooks, Context API, Advanced Patterns
-   ├── 🟢 Node.js     → REST APIs, Middleware, Authentication
-   ├── 🚂 Express.js  → Routing, Error Handling, MVC Pattern
-   └── 🍃 MongoDB     → Atlas Cloud, Aggregations, Indexing
-
-☁️ Deployment & DevOps
-   ├── 🐙 GitHub      → Git Flow, Open Source Contributions
-   └── 🌐 Hosting     → Vercel, Netlify, Render
-
-🤖 AI-Assisted Development
-   └── 🔮 Gemini AI + ChatGPT → AI-Assisted Development & Prompt Engineering
+┌──────────────────────────────────────────────────────┐
+│                  🚀 2026 ROADMAP                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ✅ Build & deploy full-stack applications            │
+│                                                      │
+│  🔄 Master advanced MERN architecture                 │
+│                                                      │
+│  🔄 Learn cloud deployment & DevOps                    │
+│                                                      │
+│  🔄 Contribute to Open Source                         │
+│                                                      │
+│  🔄 Build production-ready projects                   │
+│                                                      │
+│  🔄 Improve problem-solving & DSA                     │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🤝 Let's Connect
+# 🧠 Developer Mindset
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat. 🚀"</i>
+<div align="center">
 
-<br/><br/>
+```text
+        💡 IDEA
+          │
+          ▼
+       🧠 LEARN
+          │
+          ▼
+       💻 BUILD
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+       ☁️ DEPLOY
+          │
+          ▼
+       📈 IMPROVE
+          │
+          └──────────────► 🔁 REPEAT
+```
 
-<b>Let's connect and build something amazing together!</b>
+</div>
 
-<br/><br/>
+---
 
-  <a href="https://www.linkedin.com/in/ramachandran-exe/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+# 🤝 Let's Connect
 
- 
+<div align="center">
 
-  <a href="mailto:ramachandranboominathan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+### 💬 Have an idea? Let's build it.
 
- 
+<br>
 
-  <a href="https://github.com/ramachandran0505">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://github.com/ramachandran0505">
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/ramachandran-exe/">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer" />
+<a href="mailto:ramachandranboominathan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🚀 Code. Learn. Build. Repeat.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+</div>
