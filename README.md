@@ -78,27 +78,41 @@ Full Stack
 
 ---
 
-# 🧑‍💻 About Me
+---
 
 <div align="center">
 
-### `Building • Learning • Deploying • Improving`
+# 🧑‍💻 `ABOUT_ME.js`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Developer+Profile+%7C+About+Me;Code+%7C+Learn+%7C+Build+%7C+Repeat+%F0%9F%9A%80" alt="About Me Typing"/>
 
 </div>
 
-I'm a **MERN Stack Developer** passionate about building modern, responsive and practical web applications.
+<br>
 
-I enjoy working across the **frontend, backend and database layers**, turning ideas into functional products and continuously improving my development skills.
+<div align="center">
+
+<table>
+<tr>
+<td>
 
 ```javascript
 const ramachandran = {
+
+  // 👨‍💻 Developer
   name: "Ramachandran B",
   role: "MERN Stack Developer",
 
-  education: "MCA @ RVS College of Arts and Science",
+  // 📍 Location
+  location: "Coimbatore, Tamil Nadu, India 🇮🇳",
 
-  location: "Coimbatore, Tamil Nadu 🇮🇳",
+  // 🎓 Education
+  education: {
+    degree: "MCA",
+    institution: "RVS College of Arts and Science"
+  },
 
+  // 🎨 Frontend
   frontend: [
     "HTML",
     "CSS",
@@ -107,16 +121,19 @@ const ramachandran = {
     "Bootstrap"
   ],
 
+  // ⚙️ Backend
   backend: [
     "Node.js",
     "Express.js"
   ],
 
+  // 🍃 Database
   database: [
     "MongoDB",
     "MongoDB Atlas"
   ],
 
+  // 🔧 Tools
   tools: [
     "Git",
     "GitHub",
@@ -124,11 +141,23 @@ const ramachandran = {
     "Postman"
   ],
 
+  // 🤖 AI
   ai: [
     "Gemini AI",
-    "ChatGPT"
+    "ChatGPT",
+    "Prompt Engineering"
   ],
 
+  // 🌱 Currently Learning
+  currentlyLearning: [
+    "Advanced React",
+    "REST API Architecture",
+    "Authentication",
+    "Cloud Deployment",
+    "DevOps"
+  ],
+
+  // 🚀 Interests
   interests: [
     "Full Stack Development",
     "Open Source",
@@ -136,20 +165,28 @@ const ramachandran = {
     "AI-Assisted Development"
   ],
 
+  // 🏀 Hobbies
   hobbies: [
     "Basketball 🏀",
     "Puzzles 🧩"
   ],
 
+  // 💡 Philosophy
   motto: "Code. Learn. Build. Repeat. 🚀"
 };
 ```
 
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 <div align="center">
 
-### 💡 DEVELOPMENT PHILOSOPHY
-
-**Learn → Build → Test → Deploy → Improve → Repeat 🔁**
+`💻 BUILD` ─── `🧪 TEST` ─── `🚀 DEPLOY` ─── `📈 IMPROVE`
 
 </div>
 
